@@ -20,7 +20,7 @@ DIALOGFLOW-COLLEGE-BOT/
 ├── WorkingOfAgent.mov # Screen recording of the bot in action
 │ 
 ├── README.md # Project documentation
-
+</details>
 
 ## 🚀 Features
 - Greets users with a welcome message
