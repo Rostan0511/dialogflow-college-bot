@@ -2,25 +2,6 @@
 
 A simple chatbot built using **Google Dialogflow** to help students access college-related information such as timings, branches, facilities, and contact details.
 
-## 📁 Project Structure
-<details> <summary>📁 Click to copy clean project structure</summary>
-DIALOGFLOW-COLLEGE-BOT/
-│
-├── CollegeAssistantBot/ # Unzipped Dialogflow agent folder
-│ ├── agent.json
-│ └── intents/
-│ ├── Default Welcome Intent.json
-│ ├── CollegeTimings.json
-│ ├── BranchesOffered.json
-│ ├── ContactDetails.json
-│ └── ... # Any other custom intents you added
-│
-├── Intents.png # Screenshot showing list of intents
-├── Agent.png # Screenshot showing agent details
-├── WorkingOfAgent.mov # Screen recording of the bot in action
-│ 
-├── README.md # Project documentation
-</details>
 
 ## 🚀 Features
 - Greets users with a welcome message
