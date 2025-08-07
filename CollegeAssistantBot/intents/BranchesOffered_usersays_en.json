@@ -1,0 +1,41 @@
+[
+  {
+    "id": "707e45e2-e5e6-4e8c-a971-7aab10dda13f",
+    "data": [
+      {
+        "text": "Departments in the college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed73bed7-6743-4b10-8de7-d7f95664ffe4",
+    "data": [
+      {
+        "text": "Which courses are offered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44dc9f94-57d4-46f4-8ebb-9c1ac92ff6d7",
+    "data": [
+      {
+        "text": "What branches are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

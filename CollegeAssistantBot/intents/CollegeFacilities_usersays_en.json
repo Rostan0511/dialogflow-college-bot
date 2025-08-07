@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9bb5031e-b6c0-4c89-8d13-170e01d2a833",
+    "data": [
+      {
+        "text": "Are hostels available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3169df8-cf2b-42bb-b028-58af1071da24",
+    "data": [
+      {
+        "text": "Does the college have a library?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c4c7cd5-ac56-4475-a530-6b04e26edd35",
+    "data": [
+      {
+        "text": "What facilities are there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "14c2722f-6416-48d3-9a64-ec5c98158c2d",
+    "data": [
+      {
+        "text": "How to reach the college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c347342b-fe63-481e-8c1a-36036e407370",
+    "data": [
+      {
+        "text": "College address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c75f18fb-d930-42bb-85c4-1094a3746386",
+    "data": [
+      {
+        "text": "Where is the college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

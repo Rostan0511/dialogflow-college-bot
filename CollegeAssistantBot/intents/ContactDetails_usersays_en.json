@@ -1,0 +1,41 @@
+[
+  {
+    "id": "22703397-5f89-4d42-87d9-f1684857e943",
+    "data": [
+      {
+        "text": "Email of the college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6dfd864-f1ed-4ab4-b150-151d259c126e",
+    "data": [
+      {
+        "text": "What is the college phone number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d968103-d18f-4a11-ba4f-24cd381bad65",
+    "data": [
+      {
+        "text": "How can I contact the college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

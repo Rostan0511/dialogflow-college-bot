@@ -1,0 +1,41 @@
+[
+  {
+    "id": "71bd2376-29ad-40a1-b988-0d16fe8e6b2d",
+    "data": [
+      {
+        "text": "College opening hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca55a0ca-9441-409a-b263-7f33c237b1de",
+    "data": [
+      {
+        "text": "When does the college start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ee50cc1-86f4-4b5d-a289-02062fee67e5",
+    "data": [
+      {
+        "text": "What are the college timings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
