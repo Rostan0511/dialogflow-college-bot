@@ -15,8 +15,8 @@ DIALOGFLOW-COLLEGE-BOT/
 │ ├── ContactDetails.json
 │ └── ... # Any other custom intents you added
 │
-├── intents.png # Screenshot showing list of intents
-├── agent.png # Screenshot showing agent details
+├── Intents.png # Screenshot showing list of intents
+├── Agent.png # Screenshot showing agent details
 ├── WorkingOfAgent.mov # Screen recording of the bot in action
 │ 
 ├── README.md # Project documentation
@@ -35,8 +35,8 @@ DIALOGFLOW-COLLEGE-BOT/
 3. Test it using the "Try it now" panel on the right
 
 ## 🎥 Demo
-![Demo Screenshot](screenshots/intents.png)
-> A full working video is available in `demo-video.mp4`.
+![Demo Screenshot](Intents.png)
+> A full working video is available in `WorkingOfAgent.mov`.
 
 ## 👥 Team
 - Rostan Lobo
